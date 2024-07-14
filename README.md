@@ -56,6 +56,7 @@ For questions or feedback, please contact:
 
 - Wajiha Ali: [wali.bee21seecs@seecs.edu.pk](mailto:wali.bee21seecs@seecs.edu.pk)
 - Muhammad Huzaifa: [mhuzaifa.bee21seecs@seecs.edu.pk](mailto:mhuzaifa.bee21seecs@seecs.edu.pk)
+- Muhammad Aqdas Chaudhry: [chauhary.bee21seecs@seecs.edu.pk](mailto:@seecs.edu.pk@seecs.edu.pk)
 
 Feel free to reach out to us with any inquiries related to this project.
 
